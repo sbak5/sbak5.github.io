@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://sbak5.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv</title>
+      <link>https://sbak5.github.io/publication/thesis/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbak5.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arxiv</title>
+      <link>https://sbak5.github.io/publication/arxiv2020/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sbak5.github.io/publication/arxiv2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Euro-Par 2019</title>
@@ -42,7 +60,7 @@
     <item>
       <title>ESPM2 2017</title>
       <link>https://sbak5.github.io/publication/espm22017/</link>
-      <pubDate>Sun, 12 Nov 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 -0500</pubDate>
       
       <guid>https://sbak5.github.io/publication/espm22017/</guid>
       <description></description>
@@ -51,7 +69,7 @@
     <item>
       <title>SC16 SRC</title>
       <link>https://sbak5.github.io/publication/sc16arc/</link>
-      <pubDate>Sun, 13 Nov 2016 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 13 Nov 2016 00:00:00 -0500</pubDate>
       
       <guid>https://sbak5.github.io/publication/sc16arc/</guid>
       <description></description>
@@ -60,7 +78,7 @@
     <item>
       <title>LCTES 2014</title>
       <link>https://sbak5.github.io/publication/lctes14/</link>
-      <pubDate>Fri, 13 Jun 2014 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 13 Jun 2014 00:00:00 -0400</pubDate>
       
       <guid>https://sbak5.github.io/publication/lctes14/</guid>
       <description></description>
