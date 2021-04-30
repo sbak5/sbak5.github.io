@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Load Balancing | Seonmyeong&#39;s Homepage</title>
+    <link>/tag/load-balancing/</link>
+      <atom:link href="/tag/load-balancing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Load Balancing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Load Balancing</title>
+      <link>/tag/load-balancing/</link>
+    </image>
+    
+    <item>
+      <title>Optimized Execution of Parallel Loops via User-Defined Scheduling Policies</title>
+      <link>/publication/icpp19/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/icpp19/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    #Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-level Load Balancing with an Integrated Runtime Approach</title>
+      <link>/publication/ccgrid18/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ccgrid18/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    #Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
